@@ -11,4 +11,4 @@ if sys.argv[1]=="F":
     print(temp, " °C")
 if sys.argv[1] == "C":
     temp = int(sys.argv[2]) *9/5 + 32
-    print(temp, " °F")
+    print(temp, "°F")
